@@ -1,0 +1,18 @@
+Tiedoston vaalidata.csv alkuperäinen lähde: https://yle.fi/uutiset/3-9526290 
+"Kuntavaalien 2017 Ylen vaalikoneen koko maan kysymykset sisältävä avoin data on 
+ladattavissa tämän linkin takaa (aineisto päivitetty 11.4.2017)."
+
+Tiedostoa on muokattu. 
+
+Mukana ovat vain vain suomenkieliset rivit sekä vain seuraavat sarakkeet:
+- valittu (eli tuliko valituksi, arvo 1 on kyllä, arvo 0 ei)
+- Miksi juuri sinut kannattaisi valita kunnanvaltuustoon?
+- Mitä asioita haluat edistää tai ajaa tulevalla vaalikaudella?
+
+Tämän lisäksi mukaan valituissa perustelusarakkeissa on kummassakin 
+vähintään 150 merkkiä.
+
+Tiedosto on lisensoitu Creative Commons CC BY-SA -lisenssillä alkuperäisen
+datan tavoin. 
+
+Linkki lisenssiin: https://creativecommons.org/licenses/by-sa/1.0/fi/
